@@ -9,5 +9,5 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello X"<<endl;
+	cout<<"Hello XY"<<endl;
 }
